@@ -1,5 +1,5 @@
 import mediapipe as mp
-import time
+
 import cv2
 # create class for handdector ---
 # it have two function --
