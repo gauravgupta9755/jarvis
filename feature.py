@@ -1,5 +1,5 @@
 features={
-    "lena":100,
+    "venom":100,
     "set":0,
     "ok":0,
    "voice":1,
@@ -10,7 +10,8 @@ features={
     "click":4,
     "stop":5,
     "start":6,
-    "over":7
+    "over":7,
+    "off":8
 
 }
 notfeatures={
@@ -20,5 +21,6 @@ notfeatures={
     "click": 4,
     "stop": 5,
     "start": 6,
-    "over": 7
+    "over": 7,
+    "off":8
 }
